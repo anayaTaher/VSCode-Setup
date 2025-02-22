@@ -1,0 +1,7 @@
+eirikpre.systemverilog
+formulahendry.code-runner
+ms-vscode.cpptools
+oderwat.indent-rainbow
+ryuta46.multi-command
+xaver.clang-format
+yo1dog.cursor-align
