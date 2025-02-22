@@ -1,0 +1,35 @@
+{
+  "workbench.startupEditor": "none",
+  "window.commandCenter": false,
+  "workbench.panel.showLabels": false,
+  "workbench.activityBar.location": "top",
+  "editor.renderWhitespace": "all",
+  "editor.mouseWheelZoom": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.editor.enablePreview": false,
+  "editor.comments.ignoreEmptyLines": false,
+  "editor.guides.indentation": true,
+  "editor.wrappingIndent": "none",
+  "editor.trimAutoWhitespace": false,
+  "files.trimTrailingWhitespaceInRegexAndStrings": false,
+  "editor.largeFileOptimizations": false,
+  "editor.tabSize": 2,
+  "editor.guides.bracketPairs": "active",
+  "extensions.ignoreRecommendations": true,
+  "editor.stickyScroll.enabled": false,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "line",
+  "code-runner.runInTerminal": true,
+  "code-runner.executorMap": {
+    "cpp": "clear && g++ -g $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "editor.formatOnSave": true,
+  "terminal.integrated.mouseWheelZoom": true,
+  "terminal.integrated.fontSize": 13,
+}
