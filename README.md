@@ -6,6 +6,7 @@
 
 # Clang-Format:
   - Download the LLVM installer. make sure to check 'Add LLVM to system PATH'.
+  - Move `.clang-format` to the same directory as `main.cpp`.
 
 # Extensions:
   - Move `extensions.txt` to `%USERPROFILE%\Desktop`.<br>
