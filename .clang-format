@@ -1,0 +1,21 @@
+BasedOnStyle: Google
+BraceWrapping:
+  AfterFunction: false
+  AfterClass: false
+  AfterControlStatement: false
+  BeforeElse: false
+  BeforeCatch: false
+
+AllowShortBlocksOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: InlineOnly
+
+PenaltyReturnTypeOnItsOwnLine: 0
+PenaltyBreakBeforeFirstCallParameter: 0
+PenaltyBreakString: 0
+
+ReflowComments: false
+
+ColumnLimit: 0
