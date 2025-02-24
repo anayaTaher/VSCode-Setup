@@ -106,5 +106,10 @@
   {
     "key": "ctrl ctrl",
     "command": "workbench.action.terminal.killAll"
+  },
+  {
+    "key": "shift+enter",
+    "command": "editor.action.previousMatchFindAction",
+    "when": "findInputFocussed"
   }
 ]
