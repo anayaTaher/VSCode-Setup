@@ -111,5 +111,15 @@
     "key": "shift+enter",
     "command": "editor.action.previousMatchFindAction",
     "when": "findInputFocussed"
-  }
+  },
+  {
+    "key": "f8",
+    "command": "editor.foldAll",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "f9",
+    "command": "editor.unfoldAll",
+    "when": "editorTextFocus && foldingEnabled"
+  },
 ]
