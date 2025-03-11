@@ -122,4 +122,12 @@
     "command": "editor.unfoldAll",
     "when": "editorTextFocus && foldingEnabled"
   },
+  {
+    "key": "ctrl+numpad_add",
+    "command": "editor.action.fontZoomIn",
+  },
+  {
+    "key": "ctrl+numpad_subtract",
+    "command": "editor.action.fontZoomOut",
+  }
 ]
