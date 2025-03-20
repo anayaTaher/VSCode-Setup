@@ -39,8 +39,6 @@
   "C_Cpp.codeAnalysis.clangTidy.args": [
     "--checks=-*,clang-diagnostic-unused-variable,clang-diagnostic-unused-function"
   ],
-  "editor.formatOnSave": true,
-  "editor.formatOnType": true,
   "[verilog]": {
     "editor.formatOnSave": false,
     "editor.formatOnType": false
@@ -48,5 +46,10 @@
   "[systemverilog]": {
     "editor.formatOnSave": false,
     "editor.formatOnType": false
-  }
+  },
+  "C_Cpp.formatting": "disabled",
+  "clang-format.executable": "",
+  "editor.multiCursorLimit": 100000,
+  "window.enableMenuBarMnemonics": false,
+  "window.customMenuBarAltFocus": false
 }
