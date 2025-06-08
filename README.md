@@ -5,7 +5,8 @@
   - Move `keybindings.json` to: `%APPDATA%\Code\User`.
 
 # Clang-Format:
-  - Download the LLVM installer. make sure to check 'Add LLVM to system PATH'.
+  - Download the MSYS2 from vscode guide c++.
+  - Also use Msys2 shell to install clang.
   - Move `.clang-format` to the same directory as `main.cpp`.
 
 # Extensions:
