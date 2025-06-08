@@ -34,22 +34,9 @@
   "chat.commandCenter.enabled": false,
   "editor.stickyScroll.enabled": false,
   "C_Cpp.default.cppStandard": "c++20",
-  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
-  "C_Cpp.codeAnalysis.clangTidy.path": "C:\\Program Files\\LLVM\\bin\\clang-tidy.exe",
-  "C_Cpp.codeAnalysis.clangTidy.args": [
-    "--checks=-*,clang-diagnostic-unused-variable,clang-diagnostic-unused-function"
-  ],
-  "[verilog]": {
-    "editor.formatOnSave": false,
-    "editor.formatOnType": false
-  },
-  "[systemverilog]": {
-    "editor.formatOnSave": false,
-    "editor.formatOnType": false
-  },
-  "C_Cpp.formatting": "disabled",
-  "clang-format.executable": "",
+  "clang-format.executable": "C:/msys64/mingw64/bin/clang-format.exe",
   "editor.multiCursorLimit": 100000,
   "window.enableMenuBarMnemonics": false,
-  "window.customMenuBarAltFocus": false
+  "window.customMenuBarAltFocus": false,
+  "editor.formatOnSave": true
 }
